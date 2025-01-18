@@ -30,4 +30,4 @@ Graph Neural Nets and AGI.
    
 6. I really want to pursue a serious research career in Deep Learning.
 
-📫 How to send an owl to me:
+📫 Where to send an owl to me: ![foo]([/url "title"](https://www.linkedin.com/in/thinh-nguyen-324831229/)) 
