@@ -27,8 +27,8 @@ Graph Neural Nets and AGI.
 3. I have not been taught Deep Learning and other ✨ deeper ✨ stuffs about machine learning at my uni, or at research labs (because I didn't join any 😄). I learnt all by myself from second year (it has been 1 year and a half 'til now).
    
 5. My current work is about Vision Transformer on Segmentation. This research is still being done (with my friend and my mentor), and I will update the repository along with the preprint paper as soon as possible.
-   
-6. I really want to pursue a serious research career in Deep Learning.
+
+6. I have finished my banchelor thesis in only 12 days (including coding, writing reports,... basically everything).
 
 <!--
 📫 Where to send an owl to me: ![foo [bar](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png)](https://www.linkedin.com/in/thinh-nguyen-324831229/) -->
