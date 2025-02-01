@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 I have finished my Banchelor Degree of Software Engineering at School of Business Information Technology, University of Economics of Ho Chi Minh city.
-My research of interest are: Computer Vision, Vision Generative Models and Self-supervised Learning frameworks. Besides these, currently I am fond of 
+My research of interest are: Computer Vision, Vision Generative Models and Self-supervised Learning frameworks. Alongside these, currently I am fond of 
 Graph Neural Nets and AGI.
 
 ⚡ Fun facts about me:
