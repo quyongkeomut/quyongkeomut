@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I have finished my Banchelor Degree of Software Engineering at School of Business Information Technology, University of Economics of Ho Chi Minh city.
+I have finished my Bachelor Degree of Software Engineering at School of Business Information Technology, University of Economics of Ho Chi Minh city.
 My research of interest are: Computer Vision, Vision Generative Models and Self-supervised Learning frameworks. Alongside those areas, currently I am fond of 
 Graph Neural Nets and AGI.
 
